@@ -67,11 +67,10 @@ DEBUG=True
 
 ### FAQ Endpoints
 
-- `GET /api/faqs/` - List all FAQs
-- `GET /api/faqs/?lang=hi` - List FAQs in Hindi
-- `GET /api/faqs/?lang=bn` - List FAQs in Bengali
-- `POST /api/faqs/` - Create new FAQ (Admin only)
-- `DELETE /api/faqs/<id>/` - Delete FAQ (Admin only)
+- `GET ` - List all FAQs
+- `GET /?lang=hi` - List FAQs in Hindi
+- `GET ?lang=bn` - List FAQs in Bengali
+
 
 ### Language Parameter
 

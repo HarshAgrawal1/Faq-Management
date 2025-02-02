@@ -1,3 +1,5 @@
+# Youtube Link: https://www.youtube.com/watch?v=5A4r0kKvYog
+
 # Multilingual FAQ System
 
 A Django-based FAQ management system with multilingual support, WYSIWYG editor integration, and API capabilities.
